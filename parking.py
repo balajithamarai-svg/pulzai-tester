@@ -8,7 +8,7 @@ while True:
     print("1. Park Vehicle")
     print("2. Remove Vehicle")
     print("3. Show Available Slots")
-    print("4. Show non-Parked Vehicles")
+    print("4. Show unavailable -Parked Vehicles")
     print("5. Exit")
 
     choice = input("Enter your choice: ")
